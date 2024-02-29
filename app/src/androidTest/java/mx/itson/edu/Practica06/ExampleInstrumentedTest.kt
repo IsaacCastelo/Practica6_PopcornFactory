@@ -1,4 +1,4 @@
-package mx.itson.edu.myapplication
+package mx.itson.edu.Practica06
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

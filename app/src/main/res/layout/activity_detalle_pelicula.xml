@@ -38,6 +38,6 @@
             android:paddingHorizontal="25dp"
             android:textSize="16sp"
             android:text="Se centra en la vida de Jung Koo Won, un temerario demonio que pierde sus poderes tras conocer a Do Do-Hee, una exitosa empresaria con la que deberá de colaborar para recuperarlos."
-            android:textColor="@color/yellow"
+            android:textColor="@color/yellow"/>
     </LinearLayout>
 </LinearLayout>

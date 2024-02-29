@@ -28,7 +28,7 @@
             android:text="@string/welcome"
             android:textColor="@color/mainText"
             android:textSize="18sp"
-            android:textStyle="italic"
+            android:textStyle="italic"/>
 
             <Button
                 android:id="@+id/botonP"
